@@ -28,8 +28,8 @@ This app is built using **React**, **TypeScript**, and **Vite**. It features:
 
 ### 1. Clone the Repository
 ### 2. Navigate to the project directory and install the necessary dependencies : 
-- **cd expense-tracker-app
-- **npm install
-- **npm run dev
+- cd expense-tracker-app
+- npm install
+- npm run dev
 
 
