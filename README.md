@@ -9,16 +9,12 @@ This app is built using **React**, **TypeScript**, and **Vite**. It features:
 - Interactive charts to visualize the comparison between income and expenses.
 - A clean and modular code structure, making it easy to maintain and scale.
 
----
-
 ## 🛠 Tech Stack
 
 - **React.js** – for building dynamic, component-driven UIs ⚛️
 - **TypeScript** – for static typing and better developer experience 📜
 - **Vite** – a fast build tool for front-end development ⚡
 - **Chart.js** – for rendering interactive, visually appealing data charts 📊
-
----
 
 ## 🎯 Key Features
 
@@ -28,13 +24,12 @@ This app is built using **React**, **TypeScript**, and **Vite**. It features:
 - **Clean and Modular Code**: Reusable components and clear folder structure for maintainability.
 - **LocalStorage Persistence**: Your data is saved in your browser, so it’s always available when you return. 🚀
 
----
-
 ## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
+### 2. Navigate to the project directory and install the necessary dependencies : 
+- **cd expense-tracker-app
+- **npm install
+- **npm run dev
 
-Clone the repo to your local machine using:
 
-```bash
-git clone https://github.com/yourusername/expense-tracker-app.git
