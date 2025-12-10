@@ -4,7 +4,7 @@ import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Toolti
 // Register the necessary chart.js components
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
-const IncomeChart = ({ income, expense }) => {
+const IncomeChart = ({ income, expense }: { income: number; expense: number }) => {
   const data = {
     labels: ['Income', 'Expense'],
     datasets: [
