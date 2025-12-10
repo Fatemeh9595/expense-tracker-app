@@ -26,8 +26,8 @@ This app is built using **React**, **TypeScript**, and **Vite**. It features:
 
 ## 🚀 How to Run Locally
 
-### 1. Clone the Repository
-### 2. Navigate to the project directory and install the necessary dependencies : 
+- Clone the Repository
+- Navigate to the project directory and install the necessary dependencies  :
 - cd expense-tracker-app
 - npm install
 - npm run dev
